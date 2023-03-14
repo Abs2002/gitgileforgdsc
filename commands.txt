@@ -5,3 +5,6 @@ git commit -m"" : make changes to the github repository . -m is used to give a m
 git log : it shows all the commits tracked.
 git remote add origin https://github.com/Abs2002/gitgileforgdsc.git : this line tells where to push the code and in which github repository
 git remote add origin https://github.com/Abs2002/gitgileforgdsc.git : this pushes the code in github branch
+git branch 'name' : makes a new branch with desired name
+git branch : lists all the branches
+git checkout 'name' : go to the desired branch
