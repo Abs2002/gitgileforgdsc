@@ -3,3 +3,5 @@ git add . : in this we add the changes we did in files (all files). dot is for a
 git status : shows all activities in the folder until they are not commited
 git commit -m"" : make changes to the github repository . -m is used to give a message for users
 git log : it shows all the commits tracked.
+git remote add origin https://github.com/Abs2002/gitgileforgdsc.git : this line tells where to push the code and in which github repository
+git remote add origin https://github.com/Abs2002/gitgileforgdsc.git : this pushes the code in github branch
