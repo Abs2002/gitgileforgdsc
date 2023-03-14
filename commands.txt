@@ -2,3 +2,4 @@ git init : initialize the emepty repository
 git add . : in this we add the changes we did in files (all files). dot is for all file changes
 git status : shows all activities in the folder until they are not commited
 git commit -m"" : make changes to the github repository . -m is used to give a message for users
+git log : it shows all the commits tracked.
